@@ -40,7 +40,12 @@ Deportes, Tecnología.
 - Fundamentos de Geografía 
 - Cartografia Básica
 - Estrategias de Lectura en Inglés I  
-- Estrategias de Lectura en Inglés II
+- Estrategias de Lectura en Inglés II  
+
+
+![](LOGOUCR.png) 
+
+
 
 
 
