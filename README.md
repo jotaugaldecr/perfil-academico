@@ -19,7 +19,8 @@ Estudiante de Ingles [Universidad Nacional de Costa Rica](https://www.una.ac.cr/
 ## **Áreas de Interes:**
 Deportes, Tecnología.
 
-**Carrera:**
+**Carreras:**  
+
 [Bachillerato en Inglés](https://www.carreras.una.ac.cr/ingles/)  
 
 [Bachillerato y Licenciatura en Geografía](https://geografia.fcs.ucr.ac.cr/index.php/estudiantes/pregrado/plan-de-estudios)
