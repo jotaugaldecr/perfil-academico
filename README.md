@@ -44,7 +44,7 @@ Deportes, Tecnología.
 
 
 ![](LOGOUCR.png) 
-![](LOGOUNA.png) 
+![](UNALOGO.png) 
 
 
 
