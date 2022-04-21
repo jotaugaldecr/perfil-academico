@@ -20,7 +20,8 @@ Estudiante de Ingles [Universidad Nacional de Costa Rica](https://www.una.ac.cr/
 Deportes, Tecnología.
 
 **Carrera:**
-[Bachillerato en Inglés](https://www.carreras.una.ac.cr/ingles/)
+[Bachillerato en Inglés](https://www.carreras.una.ac.cr/ingles/)  
+
 [Bachillerato y Licenciatura en Geografía](https://geografia.fcs.ucr.ac.cr/index.php/estudiantes/pregrado/plan-de-estudios)
 
 **_Cursos Aprobados_**  
